@@ -1,0 +1,15 @@
+/Users/neilyang/Library/CloudStorage/OneDrive-中華大學/BuildSchool/C#/assistant/0518/t/test_interface/obj/Debug/net6.0/test_interface.csproj.AssemblyReference.cache
+/Users/neilyang/Library/CloudStorage/OneDrive-中華大學/BuildSchool/C#/assistant/0518/t/test_interface/obj/Debug/net6.0/test_interface.GeneratedMSBuildEditorConfig.editorconfig
+/Users/neilyang/Library/CloudStorage/OneDrive-中華大學/BuildSchool/C#/assistant/0518/t/test_interface/obj/Debug/net6.0/test_interface.AssemblyInfoInputs.cache
+/Users/neilyang/Library/CloudStorage/OneDrive-中華大學/BuildSchool/C#/assistant/0518/t/test_interface/obj/Debug/net6.0/test_interface.AssemblyInfo.cs
+/Users/neilyang/Library/CloudStorage/OneDrive-中華大學/BuildSchool/C#/assistant/0518/t/test_interface/obj/Debug/net6.0/test_interface.csproj.CoreCompileInputs.cache
+/Users/neilyang/Library/CloudStorage/OneDrive-中華大學/BuildSchool/C#/assistant/0518/t/test_interface/bin/Debug/net6.0/test_interface
+/Users/neilyang/Library/CloudStorage/OneDrive-中華大學/BuildSchool/C#/assistant/0518/t/test_interface/bin/Debug/net6.0/test_interface.deps.json
+/Users/neilyang/Library/CloudStorage/OneDrive-中華大學/BuildSchool/C#/assistant/0518/t/test_interface/bin/Debug/net6.0/test_interface.runtimeconfig.json
+/Users/neilyang/Library/CloudStorage/OneDrive-中華大學/BuildSchool/C#/assistant/0518/t/test_interface/bin/Debug/net6.0/test_interface.dll
+/Users/neilyang/Library/CloudStorage/OneDrive-中華大學/BuildSchool/C#/assistant/0518/t/test_interface/bin/Debug/net6.0/test_interface.pdb
+/Users/neilyang/Library/CloudStorage/OneDrive-中華大學/BuildSchool/C#/assistant/0518/t/test_interface/obj/Debug/net6.0/test_interface.dll
+/Users/neilyang/Library/CloudStorage/OneDrive-中華大學/BuildSchool/C#/assistant/0518/t/test_interface/obj/Debug/net6.0/refint/test_interface.dll
+/Users/neilyang/Library/CloudStorage/OneDrive-中華大學/BuildSchool/C#/assistant/0518/t/test_interface/obj/Debug/net6.0/test_interface.pdb
+/Users/neilyang/Library/CloudStorage/OneDrive-中華大學/BuildSchool/C#/assistant/0518/t/test_interface/obj/Debug/net6.0/test_interface.genruntimeconfig.cache
+/Users/neilyang/Library/CloudStorage/OneDrive-中華大學/BuildSchool/C#/assistant/0518/t/test_interface/obj/Debug/net6.0/ref/test_interface.dll
